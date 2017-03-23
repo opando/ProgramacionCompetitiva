@@ -3,7 +3,7 @@
 https://github.com/haseebr/competitive-programming
 
 
-
+# codigo del libro en c y java
 http://www.cse.ust.hk/~skiena/300/
 
 http://www3.cs.stonybrook.edu/~skiena/392/programs/
